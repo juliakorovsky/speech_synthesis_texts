@@ -1,2 +1,6 @@
 # speech_synthesis_texts
-Texts from different sources, that can be useful in TTS tasks
+Texts from different sources, that can be useful in TTS tasks   
+
+"фонетически_представительный_текст.txt" - текст из статьи "ФОНЕТИЧЕСКИ ПРЕДСТАВИТЕЛЬНЫЙ ТЕКСТ
+ДЛЯ ФУНДАМЕНТАЛЬНЫХ И ПРИКЛАДНЫХ ИССЛЕДОВАНИЙ РУССКОЙ РЕЧИ" (Н.С. Смирнова, М.В. Хитров).
+Каждая строка - отдельное предложение.
